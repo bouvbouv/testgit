@@ -1,8 +1,10 @@
-MB: 	hola
+﻿MB: 	hola
 	hello!
 	salut!
 	comment ca va ?
-________________________________________
+________________________________________________________________________________
 MQ: 	tr�s bien et toi ?
-________________________________________
-le mec répons avec ses initiales comme si je savais pas qui c'etait
+________________________________________________________________________________
+MB:	le mec répons avec ses initiales comme si je savais pas qui c'etait
+________________________________________________________________________________
+MQ:	Gnagnagna..
