@@ -1,5 +1,7 @@
-
-hola
-hello!
-salut!
-comment ca va ?
+MB: 	hola
+	hello!
+	salut!
+	comment ca va ?
+________________________________________
+MQ: 	très bien et toi ?
+________________________________________
